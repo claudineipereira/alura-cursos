@@ -10,3 +10,4 @@ Repositório para conter códigos criados durante os cursos realizados na Alura.
 * Python 3 parte 1
 * Python 3 parte 2
 * Python 3: Introdução à orientação a objetos
+* Python 3: Avançando na orientação a objetos
